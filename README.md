@@ -10,7 +10,7 @@ This repository contains a data visualization project built using **Tableau Publ
 
 This repository contains the following files:
 - **`AirBnB_Analysis.twbx`** – The Tableau workbook file containing all the visualizations and analysis.
-- **`screenshot.png`** – A preview image of the dashboard.
+- **`image.png`** – A preview image of the dashboard.
 - **`README.md`** – This description file.
 
 ## Dashboard Features
